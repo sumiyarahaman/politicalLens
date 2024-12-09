@@ -44,6 +44,7 @@ for url in urls:
     {', '.join(toi_article.keywords)}
     """
     
-    save_file = "article.txt"
+    save_file = "articles.txt"
     with open(save_file, "a", encoding="utf-8") as file: 
         file.write(content + "\n")
+
