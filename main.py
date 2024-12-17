@@ -1,4 +1,4 @@
-import os
+
 import linecache #package to read lines
 
 #function to open and read files
