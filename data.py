@@ -39,14 +39,14 @@ for i, url in enumerate(urls, 1):
     {toi_article.text} """
 
     
-    content = f"Title: {toi_article.title}\n\n{toi_article.text}"
+    text_file = f"Title: {toi_article.title}\n\n{toi_article.text}"
     
     
     fname = f"article{i}.txt"
     fpath = os.path.join(path, fname)
     
     with open(fpath, 'a', encoding="utf-8") as fhand:
-        fhand.write(content)
+        fhand.write(text_file)
       
      
      # Previous method to save all text in a singula r file
