@@ -1,0 +1,137 @@
+Title: AI’s environmental footprint: How much energy does it take to run ChatGPT?
+
+The tension between AI and climate is growing. Google data center in the Netherlands. Intreegue Photography / Shutterstock
+
+Gordon Noble, University of Technology Sydney and Fiona Berry, University of Technology Sydney
+
+Since the release of ChatGPT in November 2022, the world has seen an incredible surge in investment, development and use of artificial intelligence (AI) applications. According to one estimate, the amount of computational power used for AI is doubling roughly every 100 days.
+
+The social and economic impacts of this boom have provoked reactions around the world. European regulators recently pushed Meta to pause plans to train AI models on users’ Facebook and Instagram data. The Bank of International Settlements, which coordinates the world’s central banks, has warned AI adoption may change the way inflation works.
+
+The environmental impacts have so far received less attention. A single query to an AI-powered chatbot can use up to ten times as much energy as an old-fashioned Google search.
+
+Broadly speaking, a generative AI system may use 33 times more energy to complete a task than it would take with traditional software. This enormous demand for energy translates into surges in carbon emissions and water use, and may place further stress on electricity grids already strained by climate change.
+
+Energy and carbon emissions
+
+Most AI applications run on servers in data centers. In 2023, before the AI boom really kicked off, the International Energy Agency estimated data centers already accounted for 1–1.5% of global electricity use and around 1% of the world’s energy-related CO₂ emissions.
+
+For comparison, in 2022, the aviation sector accounted for 2% of global energy-related CO₂ emissions while the steel sector was responsible for 7–9%.
+
+How is the rapid growth in AI use changing these figures? Recent environmental reporting by Microsoft, Meta and Google provides some insight.
+
+Microsoft has significant investments in AI, with a large stake in ChatGPT-maker OpenAI as well as its own Copilot applications for Windows. Between 2020 and 2023, Microsoft’s disclosed annual emissions increased by around 40%, from the equivalent of 12.2 million tonnes of CO₂ to 17.1 million tonnes.
+
+These figures include not only direct emissions but also indirect emissions, such as those caused by generating the electricity used to run data centers and those that result from the use of the company’s products. (These three categories of emissions are referred to as Scope 1, 2 and 3 emissions, respectively.)
+
+Meta too is sinking huge resources into AI. In 2023, the company disclosed is Scope 3 emissions had increased by over 65% in just two years, from the equivalent of 5 million tonnes of CO₂ in 2020 to 8.4 million tonnes in 2022.
+
+Google’s emissions were almost 50% higher in 2023 than in 2019. The tech giant’s 2024 environmental report notes that planned emissions reductions will be difficult “due to increasing energy demands from the greater intensity of AI compute”.
+
+LEARN MORE Michigan House OK’s data center tax break that advocates say threatens climate goals Critics say water and power-hungry data centers could increase prices for utility customers, deplete groundwater and compromise Michigan’s renewable energy targets.
+
+Lots of water
+
+Data centers generate a lot of heat and consume large amounts of water to cool their servers. According to a 2021 study, data centers in the United States use about 7,100 liters of water for each megawatt-hour of energy they consume.
+
+Google’s US data centers alone consumed an estimated 12.7 billion liters of fresh water in 2021.
+
+In regions where climate change is increasing water stress, the water use of data centers is becoming a particular concern. The recent drought in California, where many tech companies are based, has led companies including Google, Amazon and Meta to start “water positive” initiatives.
+
+These big tech firms have announced commitments to replenish more water than they consume by 2030. Their plans include projects such as designing ecologically resilient watershed landscapes and improving community water conservation to improve water security.
+
+AI and climate
+
+Where data centres are located in or near cities, they may also end up competing with people for resources in times of scarcity. Extreme heat events are one example.
+
+Globally, the total number of days above 50°C has increased in each decade since 1980. July 2023 was the hottest month ever recorded.
+
+Extreme heat translates to health impacts on local populations. A Lancet 2022 study found that even a 1°C increase in temperature is positively associated with increased mortality and morbidity.
+
+On days of extreme heat, air conditioning can save lives. Data centers also like to keep cool, so their power use will spike with the temperature, raising the risk of blackouts and instability in electricity grids.
+
+What’s next?
+
+So what now? As we have seen, tech companies are increasingly aware of the issue. How is that translating into action?
+
+When we surveyed Australian sustainability professionals in July 2023, we found only 6% believed data centre operators provided detailed sustainability data.
+
+Earlier this year we surveyed IT managers in Australia and New Zealand to ask what they thought about how AI applications are driving increased energy use. We found 72% are already adopting or piloting AI technologies.
+
+More than two-thirds (68%) said they were concerned about increased energy consumption for AI needs. However, there is also significant uncertainty about the size of the increase.
+
+Many IT managers also lack the necessary skills to adequately address these sustainability impacts, regardless of corporate sustainability commitments. Education and training for IT managers to understand and address the sustainability impacts of AI is urgently required.
+
+Gordon Noble, Research Director, Institute for Sustainable Futures, University of Technology Sydney and Fiona Berry, Research Principal, Institute for Sustainable Futures, University of Technology Sydney
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+
+Sign me up for Planet Detroit’s free weekly email newsletterTitle: AI’s environmental footprint: How much energy does it take to run ChatGPT?
+
+The tension between AI and climate is growing. Google data center in the Netherlands. Intreegue Photography / Shutterstock
+
+Gordon Noble, University of Technology Sydney and Fiona Berry, University of Technology Sydney
+
+Since the release of ChatGPT in November 2022, the world has seen an incredible surge in investment, development and use of artificial intelligence (AI) applications. According to one estimate, the amount of computational power used for AI is doubling roughly every 100 days.
+
+The social and economic impacts of this boom have provoked reactions around the world. European regulators recently pushed Meta to pause plans to train AI models on users’ Facebook and Instagram data. The Bank of International Settlements, which coordinates the world’s central banks, has warned AI adoption may change the way inflation works.
+
+The environmental impacts have so far received less attention. A single query to an AI-powered chatbot can use up to ten times as much energy as an old-fashioned Google search.
+
+Broadly speaking, a generative AI system may use 33 times more energy to complete a task than it would take with traditional software. This enormous demand for energy translates into surges in carbon emissions and water use, and may place further stress on electricity grids already strained by climate change.
+
+Energy and carbon emissions
+
+Most AI applications run on servers in data centers. In 2023, before the AI boom really kicked off, the International Energy Agency estimated data centers already accounted for 1–1.5% of global electricity use and around 1% of the world’s energy-related CO₂ emissions.
+
+For comparison, in 2022, the aviation sector accounted for 2% of global energy-related CO₂ emissions while the steel sector was responsible for 7–9%.
+
+How is the rapid growth in AI use changing these figures? Recent environmental reporting by Microsoft, Meta and Google provides some insight.
+
+Microsoft has significant investments in AI, with a large stake in ChatGPT-maker OpenAI as well as its own Copilot applications for Windows. Between 2020 and 2023, Microsoft’s disclosed annual emissions increased by around 40%, from the equivalent of 12.2 million tonnes of CO₂ to 17.1 million tonnes.
+
+These figures include not only direct emissions but also indirect emissions, such as those caused by generating the electricity used to run data centers and those that result from the use of the company’s products. (These three categories of emissions are referred to as Scope 1, 2 and 3 emissions, respectively.)
+
+Meta too is sinking huge resources into AI. In 2023, the company disclosed is Scope 3 emissions had increased by over 65% in just two years, from the equivalent of 5 million tonnes of CO₂ in 2020 to 8.4 million tonnes in 2022.
+
+Google’s emissions were almost 50% higher in 2023 than in 2019. The tech giant’s 2024 environmental report notes that planned emissions reductions will be difficult “due to increasing energy demands from the greater intensity of AI compute”.
+
+LEARN MORE Michigan House OK’s data center tax break that advocates say threatens climate goals Critics say water and power-hungry data centers could increase prices for utility customers, deplete groundwater and compromise Michigan’s renewable energy targets.
+
+Lots of water
+
+Data centers generate a lot of heat and consume large amounts of water to cool their servers. According to a 2021 study, data centers in the United States use about 7,100 liters of water for each megawatt-hour of energy they consume.
+
+Google’s US data centers alone consumed an estimated 12.7 billion liters of fresh water in 2021.
+
+In regions where climate change is increasing water stress, the water use of data centers is becoming a particular concern. The recent drought in California, where many tech companies are based, has led companies including Google, Amazon and Meta to start “water positive” initiatives.
+
+These big tech firms have announced commitments to replenish more water than they consume by 2030. Their plans include projects such as designing ecologically resilient watershed landscapes and improving community water conservation to improve water security.
+
+AI and climate
+
+Where data centres are located in or near cities, they may also end up competing with people for resources in times of scarcity. Extreme heat events are one example.
+
+Globally, the total number of days above 50°C has increased in each decade since 1980. July 2023 was the hottest month ever recorded.
+
+Extreme heat translates to health impacts on local populations. A Lancet 2022 study found that even a 1°C increase in temperature is positively associated with increased mortality and morbidity.
+
+On days of extreme heat, air conditioning can save lives. Data centers also like to keep cool, so their power use will spike with the temperature, raising the risk of blackouts and instability in electricity grids.
+
+What’s next?
+
+So what now? As we have seen, tech companies are increasingly aware of the issue. How is that translating into action?
+
+When we surveyed Australian sustainability professionals in July 2023, we found only 6% believed data centre operators provided detailed sustainability data.
+
+Earlier this year we surveyed IT managers in Australia and New Zealand to ask what they thought about how AI applications are driving increased energy use. We found 72% are already adopting or piloting AI technologies.
+
+More than two-thirds (68%) said they were concerned about increased energy consumption for AI needs. However, there is also significant uncertainty about the size of the increase.
+
+Many IT managers also lack the necessary skills to adequately address these sustainability impacts, regardless of corporate sustainability commitments. Education and training for IT managers to understand and address the sustainability impacts of AI is urgently required.
+
+Gordon Noble, Research Director, Institute for Sustainable Futures, University of Technology Sydney and Fiona Berry, Research Principal, Institute for Sustainable Futures, University of Technology Sydney
+
+This article is republished from The Conversation under a Creative Commons license. Read the original article.
+
+Sign me up for Planet Detroit’s free weekly email newsletter

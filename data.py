@@ -1,7 +1,9 @@
-from newspaper import Article
+from newspaper import Article #library to extract news articles
+import os
 import nltk
 nltk.download('punkt')
 
+#list of urls
 urls = [
     "https://www.cnn.com/2024/12/08/politics/fact-check-trump-meet-the-press/index.html",
     "https://www.foxnews.com/entertainment/snl-slammed-classless-united-healthcare-murder-segment-weekend-update",
@@ -19,12 +21,16 @@ urls = [
 ]
 
 
-header = {
+header = { 
      "User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 }
 
+#current directory
+path = os.getcwd()
 
-for url in urls:
+
+for i, url in enumerate(urls, 1):
+
     toi_article = Article(url, language="en") 
     toi_article.download()
     toi_article.parse()
@@ -35,16 +41,21 @@ for url in urls:
     {toi_article.title}
     
     Article's Text:
-    {toi_article.text}
+    {toi_article.text} """
+
     
-    Article's Summary:
-    {toi_article.summary}
+    content = f"Title: {toi_article.title}\n\n{toi_article.text}"
     
-    Article's Keywords:
-    {', '.join(toi_article.keywords)}
-    """
     
-    save_file = "articles.txt"
-    with open(save_file, "a", encoding="utf-8") as file: 
-        file.write(content + "\n")
+    fname = f"article{i}.txt"
+    fpath = os.path.join(path, fname)
+    
+    with open(fpath, 'a', encoding="utf-8") as fhand:
+        fhand.write(content)
+      
+     
+     # Previous method to save all text in a singula r file
+    #save_file = f"articles/article{idx}.txt"
+    #with open(save_file, "a", encoding="utf-8") as file: 
+        #file.write(content + "\n")
 
