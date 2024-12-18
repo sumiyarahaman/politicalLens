@@ -1,6 +1,6 @@
 from newspaper import Article #library to extract news articles
-import os
-import nltk
+import os #library to save files in director
+import nltk #library for nlp
 nltk.download('punkt')
 
 #list of urls
@@ -23,14 +23,15 @@ urls = [
 #current directory
 path = os.getcwd()
 
-
+#enumerate itterates through urls by index starting at 1 for each  seperate url
 for i, url in enumerate(urls, 1):
 
     toi_article = Article(url, language="en") 
-    toi_article.download()
-    toi_article.parse()
+    toi_article.download() #download article
+    toi_article.parse() #parse article 
     toi_article.nlp()
     
+    #formatting of title and text to be displayed in txt files
     content = f"""
     Article's Title:
     {toi_article.title}
@@ -38,19 +39,14 @@ for i, url in enumerate(urls, 1):
     Article's Text:
     {toi_article.text} """
 
-    
     text_file = f"Title: {toi_article.title}\n\n{toi_article.text}"
     
-    
+    #file name for seperate articles based on url
     fname = f"article{i}.txt"
-    fpath = os.path.join(path, fname)
+    fpath = os.path.join(path, fname) #joining current directory and filename
     
+    #writing the article info into text files
     with open(fpath, 'a', encoding="utf-8") as fhand:
         fhand.write(text_file)
-      
-     
-     # Previous method to save all text in a singula r file
-    #save_file = f"articles/article{idx}.txt"
-    #with open(save_file, "a", encoding="utf-8") as file: 
-        #file.write(content + "\n")
+ 
 
